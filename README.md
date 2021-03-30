@@ -3,5 +3,5 @@
 Special thanks to Akira
 
 # How to flash
-  Install Magisk
-  Flash via **MAGISK ONLY**
+  1)Install Magisk <br>
+  2)Flash via **MAGISK ONLY**
